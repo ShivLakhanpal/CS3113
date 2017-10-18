@@ -1,0 +1,5 @@
+<TextureAtlas imagePath="sprites.png">
+	<SubTexture name="spriteSheetSpaceInvaders_01.png" x="0" y="0" width="104" height="85"/>
+	<SubTexture name="spriteSheetSpaceInvaders_02.png" x="0" y="105" width="100" height="76"/>
+	<SubTexture name="spriteSheetSpaceInvaders_03.png" x="120" y="105" width="41" height="116"/>
+</TextureAtlas>
